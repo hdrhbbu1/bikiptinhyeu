@@ -8,10 +8,10 @@
 
 module.exports = {
   siteMetadata: {
-    title: 'Đoàn Bình và Tâm Niệm Ý Phật',
-    siteUrl: 'http://khongbinhthuong.com',
-    rssFeedTitle: 'tamniemyphat',
-    rssFeedDescription: 'Đoàn Bình và Tâm Niệm Ý Phật, đức phật dạy làm người',
+    title: 'Đoàn Bình và Tâm Ý Thiện Niệm',
+    siteUrl: 'http://tamythienniem.net',
+    rssFeedTitle: 'tamythienniem',
+    rssFeedDescription: 'Đoàn Bình và Tâm Ý Thiện Niệm, đức phật dạy làm người',
   },
   mapping: {
     'MarkdownRemark.frontmatter.author': 'AuthorYaml',

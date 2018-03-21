@@ -87,7 +87,7 @@ const Header = ({location}) => (
                 border: 0,
               },
             }}>
-            Tâm Niệm Ý Phật
+            Tâm Ý Thiện Niệm
           </span>
         </Link>
 
@@ -116,7 +116,7 @@ const Header = ({location}) => (
           }}>
           <HeaderLink
             isActive={location.pathname.includes('/blog')}
-            title="Đoàn Bình và Tâm Niệm Ý Phật"
+            title="Đoàn Bình và Tâm Ý Thiện Niệm"
             to="/blog/"
           />
         </nav>
